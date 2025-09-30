@@ -1,0 +1,42 @@
+export const data = [
+  { 
+    question: "Which device is required for the Internet connection?",
+    option1: "Modem",
+    option2: "Router",
+    option3: "LAN Cable",
+    option4: "Pen Drive",
+    ans: 1,
+  },
+  { 
+    question: "What does JS stand for?",
+    option1: "JavaStyle",
+    option2: "JustScript",
+    option3: "JavaScript",
+    option4: "JollySyntax",
+    ans: 3,
+  },
+  { 
+    question: "Which company created React?",
+    option1: "Google",
+    option2: "Meta (Facebook)",
+    option3: "Microsoft",
+    option4: "Amazon",
+    ans: 2,
+  },
+  { 
+    question: "Which hook is used for state in React?",
+    option1: "useFetch",
+    option2: "useState",
+    option3: "useLogic",
+    option4: "useData",
+    ans: 2,
+  },
+  { 
+    question: "What does CSS stand for?",
+    option1: "Creative Style System",
+    option2: "Cascading Style Sheets",
+    option3: "Colorful Simple Styles",
+    option4: "Computer Styling Source",
+    ans: 2,
+  },
+];
